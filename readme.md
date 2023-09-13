@@ -26,8 +26,6 @@ home
 │   │   ├── logger.py
 │   │   ├── solver.py
 │   │   ├── static.py
-│   ├── RML2016.10a_dict.pkl
-│   ├── RML2018.01.hdf5
 ├── configs/  (hyperparameters)
 │   ├── *.yaml
 ├── main.py
