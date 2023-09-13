@@ -13,7 +13,7 @@ params:
     "epochs": 200
     "lr": 5e-3
     "lr_decay": 0.8
-    "weight_decay": 1e-1
+    "weight_decay": 5e-2
     "early_stop": False
     "Xmode": [{"type":"APF_ours","options":{"IQ_norm":False, "zero_mask":False}}]
 
