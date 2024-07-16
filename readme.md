@@ -1,5 +1,21 @@
 # README
-This is the PyTorch implementation of paper “Convolutional Neural Network Assisted Transformer for Automatic Modulation Recognition under Large CFOs and SROs”.
+This is the PyTorch implementation of paper “[Convolutional Neural Network Assisted Transformer for Automatic Modulation Recognition under Large CFOs and SROs](https://ieeexplore.ieee.org/document/10458301)”.
+
+# Citation
+```
+@ARTICLE{10458301,
+  author={Zeng, Rui and Lu, Zhilin and Zhang, Xudong and Wang, Jintao and Wang, Jian},
+  journal={IEEE Signal Processing Letters}, 
+  title={Convolutional Neural Network Assisted Transformer for Automatic Modulation Recognition Under Large CFOs and SROs}, 
+  year={2024},
+  volume={31},
+  number={},
+  pages={741-745},
+  keywords={Transformers;Convolution;Modulation;Feature extraction;Task analysis;Receivers;Frequency modulation;Automatic modulation recognition;carrier frequency offsets;sample rate offsets;transformer;group convolution},
+  doi={10.1109/LSP.2024.3372770}}
+
+```
+
 
 # Requirements
 ```
